@@ -1,4 +1,4 @@
-# churn-customer-dashboard
+
 # Customer Churn Dashboard
 
 An Excel-based dashboard analyzing churn behavior across 10,000 bank customers, 
